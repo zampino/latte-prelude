@@ -1,0 +1,5 @@
+{:paths ["src"]
+ :deps
+ {org.clojure/clojure {:mvn/version "1.10.0"}
+  latte {:git/url "https://github.com/zampino/LaTTe"
+         :sha "3d5495e0247524fbdebbdac47397b9149c1ece57"}}}
